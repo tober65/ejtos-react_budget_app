@@ -20,10 +20,7 @@ const App = () => {
         <AppProvider>
             <div className='container'>
                 <h1 className='mt-3'>Company's Budget Allocation</h1>
-                <div style={{ 
-      backgroundImage: `url("./components/green_circle.png")` 
-    }}></div>
-                    <div className='row mt-3'>
+                <div className='row mt-3'>
                         {
                             /* Add Budget component here */
                             // Budget component
